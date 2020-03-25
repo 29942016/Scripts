@@ -1,0 +1,2 @@
+# List all excluded paths by microsoft defender.
+(Get-MpPreference).ExclusionPath
